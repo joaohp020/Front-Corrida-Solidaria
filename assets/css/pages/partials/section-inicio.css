@@ -1,0 +1,17 @@
+.inicio {
+    align-items: center;
+    justify-content: center;
+}
+.inicio img {
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+}
+.titulo {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    z-index: 2;
+}
+
+

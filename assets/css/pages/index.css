@@ -1,0 +1,7 @@
+/* Arquivos Globais */
+@import '../global/global.css';
+
+@import './partials/nav.css';
+@import './partials/section-inicio.css';
+
+

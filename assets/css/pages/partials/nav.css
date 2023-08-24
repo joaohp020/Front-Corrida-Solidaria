@@ -1,0 +1,39 @@
+nav {
+    width: 100vw;
+    height: 4rem;
+    position: fixed;
+    background-color: var(--cor-branco);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px 0 10px 0;
+    box-shadow: 0px 2px 0px 0px #9a9292a6;
+}
+nav img {
+    width: 50px;
+    height: 45px;
+    display: flex;
+}
+.opcoes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.opcoes a {
+    margin: 0 1rem;
+    text-decoration: none;
+    color: var(--cor-preto);
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.login {
+    width: 8rem;
+    height: 2rem;
+    background-color: var(--cor-laranja);
+    color: var(--cor-branco);
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    margin-left: 2rem;
+}
